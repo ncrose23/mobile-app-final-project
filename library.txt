@@ -1,0 +1,14 @@
+org.apache.http.legacy: 150
+androidx.window.extensions: 30
+androidx.window.sidecar: 30
+android.test.runner: 4
+androidx.camera.extensions.impl: 2
+com.google.android.media.effects: 2
+org.simalliance.openmobileapi: 2
+com.gsma.services.nfc: 2
+com.google.android.wearable: 6
+com.izettle.touch.barcode: 2
+com.android.pinpad: 2
+com.izettle.touch.dock: 2
+com.amazon.client.metrics.api: 2
+com.amazon.asp: 2

@@ -1,0 +1,15 @@
+{
+  "android.permission.CAMERA": 48,
+  "android.permission.RECORD_AUDIO": 28,
+  "android.permission.READ_SMS": 7,
+  "android.permission.READ_CONTACTS": 20,
+  "android.permission.READ_PHONE_STATE": 32,
+  "android.permission.READ_CALL_LOG": 12,
+  "android.permission.READ_EXTERNAL_STORAGE": 59,
+  "android.permission.WRITE_EXTERNAL_STORAGE": 65,
+  "android.permission.ACCESS_FINE_LOCATION": 53,
+  "android.permission.ACCESS_COARSE_LOCATION": 52,
+  "android.permission.CALL_PHONE": 10,
+  "android.permission.SEND_SMS": 6,
+  "android.permission.INTERNET": 97
+}
